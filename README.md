@@ -1,6 +1,6 @@
 # Library Management System
 
-This is a simple, command-line-based Library Management System developed in Java. The project is designed to demonstrate fundamental Object-Oriented Programming (OOP) principles.
+The project is designed to demonstrate fundamental Object-Oriented Programming (OOP) principles.
 
 The main objective of this project is to develop a mini-system to manage books and users in a library setting. It serves as a practical exercise to solidify understanding of key OOP concepts
 
